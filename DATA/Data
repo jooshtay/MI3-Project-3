@@ -1,4 +1,0 @@
-- The dataset we are working with is a folder of 14,200 of street level images of Boston. Most if not all the images were taken by dash-cams. 
-- You can download the data set here: https://www.mapillary.com/dataset/places
-- You may need to create an account to access the image data.
-- We are using the second zip file: msls_images_vol_1.zip
