@@ -22,7 +22,7 @@ The steps are as follows:
 
 ## [SRC Section](https://github.com/bridaviss/ProjectM1/tree/main/SRC):
 
-### [Installing/Building/ Usage of Our Code](https://github.com/bridaviss/ProjectM1/tree/main/SRC/Code%20Installation%20%26%20Cleaning):
+### [Installing/Building/Usage of Our Code](https://github.com/bridaviss/ProjectM1/tree/main/SRC/Code%20Installation%20%26%20Cleaning):
 The code to install, build, and use the code are all the same.
 
 The code you will walk you through how to preprocess the images and then use the ORB algorithm to detect and match the relevant features of the images. 
