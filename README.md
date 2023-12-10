@@ -44,12 +44,11 @@ The code you will walk you through how to preprocess the images and then use the
    - Key Takeaways: The y-axis represents all of the hamming distance matches between relevant features. The x-axis represents how much the test image was rotated. It does not appear that rotating has a significant impact on the first quartile of matches, in other words, the best 25% of matched features were matched regardless of how much the image was rotated. There must be a large amount of features in the training data that are fairly obvious under different circumstances.
 
 ## REFERENCES Section:
-1. J. Geralds, “Sega Ends Production of Dreamcast,” vnunet.com, para. 2, Jan. 31, 2007. [Online]. Available: http://nli.vnunet.com/news/1116995. [Accessed Sept. 12, 2007].
-2. B. Javaheri, “Getting Started with OpenCV,” domino.ai, Feb. 25, 2023. [Online] Avaialble: https://domino.ai/blog/getting-started-with-open-cv. [Accessed Oct 8, 2023].
-3. D. Tyagi, “Introduction to ORB (Oriented FAST and Rotated BRIEF),” medium.com, Jan. 1, 2019 [Online]. Available: https://medium.com/@deepanshut041/introduction-to-orb-oriented-fast-and-rotated-brief-4220e8ec40cf. [Accessed Nov. 3, 2023].
-4. Z. Zeng, J. Zhang, X. Wang, Y. Chen, and C. Zhu, “Place Recognition: An Overview of Vision Perspective,” Applied Sciences, vol. 8, no. 11, p. 2257, Nov. 2018, doi: 10.3390/app8112257.
-5. @infoaryan, “Feature matching using ORB algorithm in Python-OpenCV,” www.geeksforgeeks.org, Jan, 03, 2023. [Online]. Available: https://www.geeksforgeeks.org/feature-matching-using-orb-algorithm-in-python-opencv/. [Accessed Nov. 3, 2023].
-6. o	M. Curry, “Image Recognition Applied To City Photos” [Online]. Available: https://www.currymichael.com/city.[Accessed Oct. 16, 2023].
+1. B. Javaheri, “Getting Started with OpenCV,” domino.ai, Feb. 25, 2023. [Online] Avaialble: https://domino.ai/blog/getting-started-with-open-cv. [Accessed Oct 8, 2023].
+2.  D. Tyagi, “Introduction to ORB (Oriented FAST and Rotated BRIEF),” medium.com, Jan. 1, 2019 [Online]. Available: https://medium.com/@deepanshut041/introduction-to-orb-oriented-fast-and-rotated-brief-4220e8ec40cf. [Accessed Nov. 3, 2023].
+3. Z. Zeng, J. Zhang, X. Wang, Y. Chen, and C. Zhu, “Place Recognition: An Overview of Vision Perspective,” Applied Sciences, vol. 8, no. 11, p. 2257, Nov. 2018, doi: 10.3390/app8112257.
+4. @infoaryan, “Feature matching using ORB algorithm in Python-OpenCV,” www.geeksforgeeks.org, Jan, 03, 2023. [Online]. Available: https://www.geeksforgeeks.org/feature-matching-using-orb-algorithm-in-python-opencv/. [Accessed Nov. 3, 2023].
+
 
 
 
