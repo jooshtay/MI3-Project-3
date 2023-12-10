@@ -34,12 +34,13 @@ The code you will walk you through how to preprocess the images and then use the
 - We are using the second zip file: msls_images_vol_1.zip
 
 
-## [FIGURES Section](https://github.com/bridaviss/ProjectM1/tree/main/FIGURES):
+## [FIGURES Section](https://github.com/jooshtay/MI3-Project-3/tree/main/FIGURES):
 - Within this section you will find key plots.
 
 ### Table of Contents:
-1. [Common Image Sizes]():
+1. [Common Image Sizes](https://github.com/jooshtay/MI3-Project-3/blob/main/FIGURES/img_sizes.png):
    - Key Takeaways: This reinforces that no such image resizing was needed for our images. The ORB algorithm did not require that we resize our images. It was imporant to see though because if our downsampling (reducing the size and blurring the image) had different effects across different image sizes, then we could have dropped uncommon image sizes or resized some of the images.
+     
 2. [How well did ORB do?](https://github.com/jooshtay/MI3-Project-3/blob/main/FIGURES/final%20image.png):
    - Key Takeaways: The y-axis represents all of the hamming distance matches between relevant features. The x-axis represents how much the test image was rotated. It does not appear that rotating has a significant impact on the first quartile of matches, in other words, the best 25% of matched features were matched regardless of how much the image was rotated. There must be a large amount of features in the training data that are fairly obvious under different circumstances.
 
