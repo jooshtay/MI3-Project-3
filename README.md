@@ -20,9 +20,9 @@ The steps are as follows:
 
 4. A reference section containing all acknolwedgments and references.
 
-## [SRC Section](https://github.com/bridaviss/ProjectM1/tree/main/SRC):
+## [SRC Section](https://github.com/jooshtay/MI3-Project-3/tree/main/SRC):
 
-### [Installing/Building/Usage of Our Code](https://github.com/bridaviss/ProjectM1/tree/main/SRC/Code%20Installation%20%26%20Cleaning):
+### [Installing/Building/Usage of Our Code](https://github.com/jooshtay/MI3-Project-3/tree/main/SRC):
 The code to install, build, and use the code are all the same.
 
 The code you will walk you through how to preprocess the images and then use the ORB algorithm to detect and match the relevant features of the images. 
@@ -38,9 +38,9 @@ The code you will walk you through how to preprocess the images and then use the
 - Within this section you will find key plots.
 
 ### Table of Contents:
-1. [Exploratory Data Analysis](https://github.com/bridaviss/ProjectM1/tree/main/FIGURES/Phrases%20Method%20Figures):
+1. [Common Image Sizes]():
    - Key Takeaways: This reinforces that no such image resizing was needed for our images. The ORB algorithm did not require that we resize our images. It was imporant to see though because if our downsampling (reducing the size and blurring the image) had different effects across different image sizes, then we could have dropped uncommon image sizes or resized some of the images.
-2. [How well did ORB do?](https://github.com/bridaviss/ProjectM1/tree/main/FIGURES/Co-occurence%20Frequency):
+2. [How well did ORB do?]():
    - Key Takeaways: The y-axis represents all of the hamming distance matches between relevant features. The x-axis represents how much the test image was rotated. It does not appear that rotating has a significant impact on the first quartile of matches, in other words, the best 25% of matched features were matched regardless of how much the image was rotated. There must be a large amount of features in the training data that are fairly obvious under different circumstances.
 
 ## REFERENCES Section:
