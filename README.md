@@ -2,7 +2,7 @@
 ## Contents:
 
 ### Project Description
-In this project, we are exploring whether we can extract relevant features of images of Boston.
+In this project, we are attempt to extract relevant features of images of Boston.
 
 ### What you will find in this repo: 
 Each section header will direct you to the respective folder.
